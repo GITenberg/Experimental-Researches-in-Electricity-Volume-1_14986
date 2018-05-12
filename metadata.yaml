@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5541
     wikipedia: http://en.wikipedia.org/wiki/Michael_Faraday
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14986#Experimental-Researches-in-Electricity-Volume-1
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
