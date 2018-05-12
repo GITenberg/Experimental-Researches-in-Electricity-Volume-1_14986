@@ -1,0 +1,30 @@
+_repo: Experimental-Researches-in-Electricity-Volume-1_14986
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Faraday, Michael
+    alias: Faraday, M. (Michael)
+    birthdate: 1791
+    deathdate: 1867
+    gutenberg_agent_id: '5541'
+    url: http://www.gutenberg.org/2009/agents/5541
+    wikipedia: http://en.wikipedia.org/wiki/Michael_Faraday
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity -- Early works to 1850'
+- !lcsh 'Electricity'
+- !lcc 'QC'
+title: Experimental Researches in Electricity, Volume 1
+url: http://www.gutenberg.org/ebooks/14986
